@@ -37,6 +37,7 @@ import java.util.*;
 
 // push main again and again
 // again
+// final
 @Entity
 @Table(name = "owners")
 public class Owner {
